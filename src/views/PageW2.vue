@@ -183,7 +183,7 @@ export default {
           images: [
             "/images/Doc/ActiviteitenDiagramTheKembitTimes.png",
             "/images/Doc/TheKembitTimes.png",
-            "/images/WebKembit/HomeK1-MU.png",
+            "/images/WebKEMBIT/HomeK1-MU.png",
             "/images/Doc/WireFrame_K2.png",
           ],
         },

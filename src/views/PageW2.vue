@@ -106,10 +106,10 @@ export default {
           title: "Behoefte Analyse, Portfolio website | voor Christian Schroth",
           iframes: ["/doc/BA/Behoeftealalyse ChrisPortfolio.pdf"],
           buttons: [
-            "Intro | Page",
-            "Over mij | Page",
-            "Mijn skills | Page",
-            "Contact form | Page",
+            "Over mij | Ontwerp",
+            "Werkervaring | Ontwerp",
+            "Mijn Projecten | Ontwerp",
+            "Contact form | Ontwerp",
           ],
           images: [
             "/images/WebChris/CP-MockUp1.png",
@@ -123,16 +123,16 @@ export default {
           title: "Behoefte Analyse, The KEMBIT Times | 1.0",
           iframes: ["/doc/BA/behoefteanalyse_TheKEMBITTimes.pdf"],
           buttons: [
-            "Home | Mock-Up",
-            "Login | Mock-Up",
-            "Reistreer | Mock-Up",
-            "Publiceer | Mock-Up",
+            "Home | Ontwerp",
+            "Account | Ontwerp",
+            "Reistreer | Ontwerp",
+            "Abonnement | Ontwerp",
           ],
           images: [
-            "/images/WebKEMBIT/HomeK1.png",
-            "/images/WebKEMBIT/RegistreerLK1.png",
-            "/images/WebKEMBIT/SubK1.png",
-            "/images/WebKEMBIT/HomeNewsK1.png",
+            "/images/WebKEMBIT/HomeK1-MU.png",
+            "/images/WebKEMBIT/NavDropDownK1-MU.png",
+            "/images/WebKEMBIT/RegistreerK1-MU.png",
+            "/images/WebKEMBIT/SubK1-MU.png",
           ],
         },
         // Document 3
@@ -177,14 +177,14 @@ export default {
           buttons: [
             "Activiteiten Diagram",
             "DataSchema",
-            "WireFrame",
             "Mock-up",
+            "WireFrame",
           ],
           images: [
             "/images/Doc/ActiviteitenDiagramTheKembitTimes.png",
             "/images/Doc/TheKembitTimes.png",
-            "/images/Doc/WireFrame_K2.png",
             "/images/WebKembit/HomeK1-MU.png",
+            "/images/Doc/WireFrame_K2.png",
           ],
         },
         // Document 6

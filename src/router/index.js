@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter } from 'vue-router';
 import HomePage from '../views/home.vue';
 import PageW1 from '../views/PageW1.vue';
 import PageW2 from '../views/PageW2.vue';
@@ -72,7 +72,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  mode: 'hash',
   routes
 });
 

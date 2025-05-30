@@ -29,10 +29,13 @@
             <img class="Groter" src="images/FeedBack/GroepOverleg.png" alt="Teams berichten" />
             <br />
             <img class="Groter" src="images/FeedBack/MeetingGroep.png" alt="Teams meeting" />
+            <br />
+            <img class="Groter" src="images/FeedBack/GroepMeeeting.png" alt="Teams meeting" />
+            <br />
+            <img class="Groter" src="images/FeedBack/MeetingPlannen.png" alt="Teams meeting" />
           </div>
         </div>
         <br />
-
 
 
             <div class="text-block">
@@ -58,6 +61,9 @@
             <div class="image-preview">
             <img class="Groter" src="images/FeedBack/Afspraken.png" alt="Teams" />
             </div>
+
+            <br />
+            <br />
         </div>
       </div>
 
@@ -79,7 +85,7 @@
 
         <h3>Beoordelings formulier</h3>
         <iframe
-          src="/doc/TenV/Beoordeling.pdf"
+          src="/doc/FB/Beoordelingsformulier_SandrinePrumpeler.pdf"
           width="100%"
           height="450px"
           frameborder="0"

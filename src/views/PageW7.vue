@@ -11,12 +11,13 @@
                 <strong>Volledig:</strong> De kandidaat legt de functionaliteit uit met goed opgebouwd en met argumenten onderbouwt verhaal.
             </p>
       <iframe
-        src="/doc/BA/.pdf"
+        src="/doc/FB/ReflectieVerslag_TheKEMBITTimes.pdf"
         width="100%"
         height="600px"
         frameborder="0"
         class="pdf-viewer"
       ></iframe>
+        <img src="images/FeedBack/Akkoort.png" alt="akkoort groep" />
     </div>
 
 
@@ -27,7 +28,7 @@
         </p>
         </div>
 
-    <img src="/doc/uitnodiging-mail.jpg" alt="E-mail uitnodiging" />
+    <img src="images/FeedBack/FeedbackMail.png" alt="E-mail uitnodiging" />
 
     <div class="text-block">
         <h2>beantwoorden vragen</h2>
@@ -35,6 +36,11 @@
         <br />
         <strong>Volledig:</strong> De kandidaat beantwoord vragen met steekhoudende argumenten.
         </p>
+        <br />
+            <img src="images/FeedBack/ReflectieVerslag-Feedback.png" alt="E-mail uitnodiging" />
+            <img src="images/FeedBack/ReactieMailMike.png" alt="E-mail uitnodiging" />
+        <br />
+        <br />  
     </div>
   </div>
 </template>
@@ -70,6 +76,11 @@ h3 {
   margin-top: 10px;
   color: #ffb6c1;
   font-weight: 600;
+  margin-bottom:-10px
+}
+
+p {
+  margin-bottom:-10px
 }
 
 .text-block {
@@ -102,6 +113,7 @@ img {
 
 .pdf-viewer {
   border: none;
+  height: 600px;
   border-radius: 6px;
   box-shadow: 0 0 6px #bb657a;
   margin-top: 20px;

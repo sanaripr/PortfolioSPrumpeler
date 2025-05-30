@@ -18,10 +18,11 @@
         <br />
         <strong>Volledig:</strong> De kandidaat reageert actief op ontvangen feedback.
       </p>
+        <img class="Groter" src="images/FeedBack/MailMike.png" alt="Mail" />
 
       <div class="document-container" style="margin-top: 20px;">
         <iframe
-          src="/doc/reflectieMeetingsEnTeamwork.pdf"
+          src="/doc/FB/ReflectieMeetingsEnTeamwork_TheKEMBITTIMES.pdf"
           width="100%"
           height="400"
           frameborder="0"
@@ -73,8 +74,15 @@ ul {
   padding-left: 20px;
 }
 
+.Groter {
+  max-width: 900px;
+  width: 100%;
+  height: auto;
+}
+
 .document-container iframe {
   border: none;
+  height: 700px;
   border-radius: 8px;
   box-shadow: 0 0 10px #bb657a;
 }

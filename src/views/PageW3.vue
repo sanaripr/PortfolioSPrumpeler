@@ -12,7 +12,7 @@
         <strong>Volledig:</strong> Er is voldoende inhoud van de functionaliteit gereageerd binnen de gestelde/geplande tijd.
       </p>
 
-      <img src="" alt="Mail van Mike" />
+      <img class="large-img" src="images/FeedBack/Afsprakennakomen.png" alt="Mail van Mike" />
     </section>
         <br />
 

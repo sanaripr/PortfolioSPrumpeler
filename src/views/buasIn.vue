@@ -4,7 +4,7 @@
     <br /><br /><br />
     
     <h1>BUas</h1>
-    <img class="logoB" src="images/C++/Buas.png" alt="Logo" />
+    <img class="logoB" src="images/C++/BUAS.png" alt="Logo" />
 
     <div class="text-block">
       <h2>Intake opdracht BUas</h2>
